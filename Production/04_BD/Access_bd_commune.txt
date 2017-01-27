@@ -1,0 +1,6 @@
+@TODO : Mettre à jour votre profil et vos projets 
+
+http://timunix.cegep-ste-foy.qc.ca/phpmadmin
+user : bdtim2017
+password : bdtim2017_cOmmUne
+
